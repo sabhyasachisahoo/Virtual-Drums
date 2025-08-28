@@ -22,17 +22,19 @@ This project uses **Python**, **Pygame**, and **Mediapipe** to track your hands 
 ▶️ Usage
 
 1. Clone the repo:
-'''
+```
 git clone https://github.com/your-username/virtual-drums.git
 cd virtual-drums
+```
 
 2.Run the script:
-'''
+```
 python virtual_drums.py
-'''
+```
+
 3. Move your hands in front of the webcam to play drums:
-'''
+```
 Left hand = kick
 Right hand = snare
 Other gestures = hihat
-'''
+```
